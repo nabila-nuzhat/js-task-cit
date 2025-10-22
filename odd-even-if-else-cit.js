@@ -1,8 +1,7 @@
-let input = 5;
+let input = "101";
 let remainder = input % 2;
 
 // if-else (checking the type of input)----------------------
-
 if(typeof input === typeof 1){
     if(remainder != 0){
         console.log(input,"is Odd");
