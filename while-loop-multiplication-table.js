@@ -11,4 +11,3 @@ while(i<=10 && i>0){
     console.log(num,"*",i,"=",product);
     i++;
 }
-
